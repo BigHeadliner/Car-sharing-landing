@@ -38,8 +38,12 @@ body{
     justify-content: space-between; 
     align-items: center; 
     height:100px;
-}
- 
+} 
+
+.menu__btn{ 
+  display:none;
+} 
+
 .menu__list{ 
     display:flex;
 } 
@@ -498,4 +502,6 @@ body{
   
  .footer__social-link{ 
     margin: 0 15px; 
- }
+ } 
+  
+ 
